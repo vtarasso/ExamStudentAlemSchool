@@ -1,8 +1,3 @@
-<a href = "https://github.com/01-edu/public/projects?type=classic" target = "_blank"> ***ЗДЕСЬ*** </a> список ВСЕХ заданий!
----
-*[children -> div-01 -> children -> checkpoint -> children -> any task -> attrs -> allowedFunctions](https://01.alem.school/api/object/alem)*
----
-[Информация для проектов](https://github.com/alem-01/cheat-sheet)
 ### По уровням:
 * *Первый уровень* <img src="https://jf-staeulalia.pt/img/other/78/collection-check-mark-image-4.png" alt="Сдал" width ="25px" height ="25px">
     * [displayfirstparam](https://github.com/01-edu/public/tree/master/subjects/displayfirstparam) **- program - github.com/01-edu/z01; os.** 
